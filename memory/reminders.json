@@ -1,0 +1,86 @@
+[
+  {
+    "id": "birthday_friend",
+    "content": "2月12日朋友生日快到了！准备礼物/祝福了吗？",
+    "reminderDate": "2026-02-09",
+    "alertDate": "2026-02-09",
+    "type": "birthday"
+  },
+  {
+    "id": "birthday_friend_day",
+    "content": "🎂 今天是朋友生日！快送祝福！",
+    "reminderDate": "2026-02-12",
+    "alertDate": "2026-02-12",
+    "type": "birthday"
+  },
+  {
+    "id": "birthday_dad",
+    "content": "2月21日爸爸生日快到了！准备礼物/祝福了吗？",
+    "reminderDate": "2026-02-18",
+    "alertDate": "2026-02-18",
+    "type": "birthday"
+  },
+  {
+    "id": "birthday_dad_day",
+    "content": "🎂 今天是爸爸生日！快送祝福！",
+    "reminderDate": "2026-02-21",
+    "alertDate": "2026-02-21",
+    "type": "birthday"
+  },
+  {
+    "id": "birthday_mom",
+    "content": "9月15日妈妈生日快到了！准备礼物/祝福了吗？",
+    "reminderDate": "2026-09-12",
+    "alertDate": "2026-09-12",
+    "type": "birthday"
+  },
+  {
+    "id": "birthday_mom_day",
+    "content": "🎂 今天是妈妈生日！快送祝福！",
+    "reminderDate": "2026-09-15",
+    "alertDate": "2026-09-15",
+    "type": "birthday"
+  },
+  {
+    "id": "anniversary_wife",
+    "content": "12月11日老婆纪念日快到了！准备惊喜了吗？",
+    "reminderDate": "2026-12-08",
+    "alertDate": "2026-12-08",
+    "type": "anniversary"
+  },
+  {
+    "id": "anniversary_wife_day",
+    "content": "💑 今天是老婆纪念日！别忘了惊喜！",
+    "reminderDate": "2026-12-11",
+    "alertDate": "2026-12-11",
+    "type": "anniversary"
+  },
+  {
+    "id": "birthday_daughter",
+    "content": "12月17日女儿生日快到了！准备礼物/祝福了吗？",
+    "reminderDate": "2026-12-14",
+    "alertDate": "2026-12-14",
+    "type": "birthday"
+  },
+  {
+    "id": "birthday_daughter_day",
+    "content": "👧 今天是女儿生日！快祝她生日快乐！",
+    "reminderDate": "2026-12-17",
+    "alertDate": "2026-12-17",
+    "type": "birthday"
+  },
+  {
+    "id": "daily_news",
+    "content": "☕ 早上好！今日X热门新闻已ready，回复『新闻』我发给你～",
+    "reminderDate": "everyday",
+    "alertTime": "09:00",
+    "type": "daily"
+  },
+  {
+    "id": "child_health_check",
+    "content": "⏰ 提醒：2月14日给孩子做儿保！别忘了～",
+    "reminderDate": "2026-02-13",
+    "alertDate": "2026-02-13",
+    "type": "todo"
+  }
+]
